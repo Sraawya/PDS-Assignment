@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  Weight by Frailty
+t = -1.8576, df = 7.601, p-value = 0.1022
+alternative hypothesis: true difference in means between group N  and group Y  is not equal to 0
+95 percent confidence interval:
+ -5.2565756  0.5899089
+sample estimates:
+mean in group N  mean in group Y  
+        3.166667         5.500000 
+
